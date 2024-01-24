@@ -24,4 +24,5 @@ pnpm-debug.log*
 READMEASTRO.md
 
 # json
-package-lock.json
+package-lock.json/
+
