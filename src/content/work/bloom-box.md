@@ -1,23 +1,27 @@
 ---
-title: Bloom Box
-publishDate: 2019-12-01 00:00:00
+title: LaFab'rik & Co
+publishDate: 2024-01-01 00:00:00
 img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: Site internet de la boulangerie LaFab'rik & Co
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Conception de ce site à l'aide d'Express, JavaScript, EJS et CSS.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Express
+  - JavaScript
+  - EJS
+  - CSS
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+## Description
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Lien du site : <a href="https://boulangerie-lafabrik.fr/" target="_blank" style="text-decoration: none;">Boulangerie - LaFab’rik & Co</a>
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Pendant mon stage, j’ai eu l’opportunité de concevoir et mettre en ligne un site web, démontrant ainsi mes compétences en développement. En suivant attentivement les exigences du client, j’ai utilisé Express.js comme framework côté serveur, employant JavaScript pour la logique côté client. L’intégration d’EJS a permis une gestion efficace des vues, tandis que les styles ont été façonnés avec CSS pour une expérience utilisateur optimale.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Le processus de création a impliqué une collaboration étroite avec le client, où j’ai traduit ses besoins en fonctionnalités tangibles et esthétiques. La phase de développement a été marquée par l’implémentation rigoureuse des fonctionnalités demandées, garantissant une navigation fluide et une présentation visuelle attrayante.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+La mise en ligne du site a constitué un jalon significatif de mon expérience en stage, mettant en évidence ma capacité à concrétiser un projet complet. Ce projet a également été une opportunité d’affiner mes compétences en résolution de problèmes, en adaptabilité et en respect des délais, des éléments cruciaux pour répondre aux attentes du client.
+
+Au-delà de la technicité du développement, j’ai acquis une compréhension approfondie du processus complet de création d’un site web, depuis la phase initiale de planification jusqu’à la réalisation finale. 
+
+Ce parcours m’a enrichi tant sur le plan technique que sur celui de la gestion de projet, et je suis ravi d’avoir contribué au succès de ce projet pendant mon stage.

@@ -1,35 +1,32 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
+title: Curriculum Vitæ
+publishDate: 2024-01-10 00:00:00
 img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: CV de jérôme Conton
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  CV codé en HTML et CSS
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - HTML
+  - CSS
 ---
 
-## Level-two heading
+## Description
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+Lien du site du CV : <a href="https://contonjerome.fr/" target="_blank" style="text-decoration: none;">contonjerome.fr</a>
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+> Apprendre
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+En tant que professionnel motivé, je suis titulaire d’un diplôme de développeur web et web mobile de niveau Bac +2, je possède une expérience dans la création d’applications web. Mon parcours professionnel comprend des projets réussis dans le développement frontend et backend, utilisant des technologies telles que HTML, CSS, JavaScript, et divers frameworks.
 
-### Level-three heading
+> S’adapter
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+J’ai également démontré mes compétences en collaboration au sein d’équipes, en assurant des livraisons ponctuelles et de haute qualité. Mon CV témoigne de ma polyvalence et de ma capacité à m’adapter.
 
-### Level-three heading
+> Évoluer
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Je suis convaincu que ces atouts font de moi un candidat idéal pour des opportunités stimulantes dans le secteur, où je pourrais apporter ma créativité et mon désir constant de progresser.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+### En Bref
 
-#### Level-four heading
-
-- We noted this
-- And also this other point
+- Motivation
+- Polyvalence
