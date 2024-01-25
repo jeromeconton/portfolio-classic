@@ -6,7 +6,7 @@ import node from "@astrojs/node";
 
 if (process.env.NODE_ENV === 'production') {
   // Utiliser l'adresse IP de connexion Wi-Fi pour la production
-  hostValue = '192.168.1.95';
+  hostValue = '0.0.0.0';
 } else {
   // En mode développement, utiliser la valeur par défaut (true)
   hostValue = true;
