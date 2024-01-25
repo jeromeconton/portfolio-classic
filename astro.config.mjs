@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import node from "@astrojs/node";
 
 export default defineConfig({
-  output: 'hybrid', // ou 'hybrid'
+  output: 'server', // ou 'hybrid'
   adapter: node({
     mode: "standalone"
   }),

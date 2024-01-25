@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "start": "astro dev --output dist --host 0.0.0.0",
-    "build": "astro check && astro build --output dist",
+    "start": "node ./dist/server/entry.mjs",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check"
