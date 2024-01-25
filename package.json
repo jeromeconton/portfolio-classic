@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "start": "node ./dist/server/entry.mjs",
-    "build": "astro build",
+    "start": "node ./dist/server/entry.mjs --output dist --host 0.0.0.0",
+    "build": "astro build --output dist",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check"
@@ -13,7 +13,7 @@
   "dependencies": {
     "@astrojs/check": "^0.4.1",
     "@astrojs/node": "^8.0.0",
-    "astro": "^4.2.4",
+    "astro": "^4.2.3",
     "typescript": "^5.3.3"
   }
 }
