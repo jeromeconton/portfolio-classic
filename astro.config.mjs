@@ -5,7 +5,7 @@ import node from "@astrojs/node";
 export default defineConfig({
   output: 'server', // ou 'hybrid'
   adapter: node({
-    mode: "standalone"
+    mode: "standalone",
   }),
   server: {
     host: true
